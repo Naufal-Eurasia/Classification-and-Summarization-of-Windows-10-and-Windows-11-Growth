@@ -19,8 +19,14 @@ Analisis tren adopsi Windows 10 vs Windows 11 secara bulanan untuk melihat siapa
 ## Insight & Findings
 - **Windows 10**: menunjukkan tren stabil hingga bulan juni market share selama periode analisis namun mengalami penurunan
   di bulan juli dan seterusnya menandakan banyak pengguna bermigrasi ke versi lebih baru.
+- Dukungan yang Diperpanjang: Windows 10 terus menerima pembaruan hingga Oktober 2025, Ini mendorong konsumen dan bisnis untuk tetap
+  menggunakan Windows 10 demi stabilitas dan perbaikan keamanan.
+- Perubahan nyata kemungkinan akan terjadi setelah Oktober 2025 ketika Windows 10 mencapai akhir masa pakainya.
+<br><br>
 - **Windows 11**: memperlihatkan tren kenaikan stabil, konsisten dengan strategi distribusi Microsoft yang mendorong adopsi OS terbaru.
 - Pergeseran pengguna terlihat jelas, dengan beberapa bulan tertentu terjadi lonjakan signifikan pada Windows 11.
+- Adopsi Windows 11 Secara Bertahap karena persyaratan bisnis tertentu mungkin mulai beralih ke Windows 11, tetapi tingkat adopsi ini kemungkinan akan meningkat                perlahan, terutama di lingkungan perusahaan yang lebih suka melakukan pengujian menyeluruh sebelum melakukan peningkatan skala besar.
+  
 
 ## AI Support Explanation
 - Menggunakan **IBM Granite** untuk:
